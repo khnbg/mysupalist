@@ -38,4 +38,4 @@ Zur Ausübung deiner Rechte kannst du dich an die oben genannte Kontaktadresse w
 beschweren, insbesondere an deinem gewöhnlichen Aufenthaltsort, deinem Arbeitsplatz oder am Ort eines vermuteten Verstoßes.
 Die offenen Angaben gehören zu den Informationspflichten einer Datenschutzerklärung; deshalb ist der Entwurf noch nicht veröffentlichungsfertig.
 Für deine App-Veröffentlichung ist außerdem relevant: Wenn über „Mit Apple anmelden“ ein App-Konto erstellt wird, verlangt Apple, dass Nutzer dessen
-Löschung in der App anstoßen können. Nur Packlisten zu löschen reicht dafür nicht aus. Apples Vorgaben zur Kontolöschung
+Löschung in der App anstoßen können. Nur Packlisten zu löschen reicht dafür nicht aus.
