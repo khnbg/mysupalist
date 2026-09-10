@@ -15,22 +15,22 @@ die Speicherung deiner Packlisten und die Steuerung über Sprachbefehle zu ermö
 Die von dir erstellten Packlisten und die zugehörigen Positionen werden bei Supabase gespeichert. Die für das Projekt gewählte Serverregion
 liegt in Deutschland. Die Verarbeitung erfolgt zur Bereitstellung der App-Funktionen auf Grundlage von Art. 6 Abs. 1 lit. b DSGVO.
 
-4. Anmeldung mit Apple
+4. Anmeldung mit Apple<br>
 Für die Anmeldung verwendet MySupaList „Mit Apple anmelden“. Apple führt die Authentifizierung durch und übermittelt der App die für die
 Anmeldung vorgesehenen Informationen.
 
-5. Mikrofon und Sprachbefehle
+5. Mikrofon und Sprachbefehle<br>
 MySupaList verwendet das Mikrofon, um eine Steuerung über Sprachbefehle zu ermöglichen. Dafür benötigt die App deine Mikrofonfreigabe.
 Du kannst diese in den iOS-Einstellungen für MySupaList entziehen; anschließend stehen Sprachbefehle nicht zur Verfügung.
 
-6. Werbung und Nutzungsanalyse
+6. Werbung und Nutzungsanalyse<br>
 In MySupaList werden keine Dienste für Werbung oder Nutzungsanalyse eingesetzt.
 
-7. Speicherdauer und Löschung
+7. Speicherdauer und Löschung<br>
 Du kannst deine Packlisten einschließlich der zugehörigen Positionen innerhalb der App löschen.
 Diese Funktion löscht nach dem derzeitigen Funktionsumfang die Listeninhalte, nicht das Benutzerkonto und die Anmeldedaten.
 
-8. Deine Rechte
+8. Deine Rechte<br>
 Unter den gesetzlichen Voraussetzungen hast du das Recht auf Auskunft über deine personenbezogenen Daten, Berichtigung, Löschung, Einschränkung
 der Verarbeitung und Datenübertragbarkeit. Soweit ein Widerspruchsrecht besteht, kannst du der Verarbeitung widersprechen.
 Wenn eine Verarbeitung auf deiner Einwilligung beruht, kannst du diese jederzeit mit Wirkung für die Zukunft widerrufen.
