@@ -2,16 +2,16 @@ Datenschutzerklärung für MySupaList
 
 Stand: 10. September 2026
 
-1. Verantwortlicher
+1. Verantwortlicher<br>
 Verantwortlich für die Verarbeitung personenbezogener Daten in dieser App ist:
 Klaus Hertel
 E-Mail: khnbg@t-online.de
 
-2. Zweck der Datenverarbeitung
+2. Zweck der Datenverarbeitung<br>
 MySupaList ist eine iOS-App zum Erstellen und Verwalten von Urlaubs-Packlisten. Wir verarbeiten personenbezogene Daten, um die Anmeldung,
 die Speicherung deiner Packlisten und die Steuerung über Sprachbefehle zu ermöglichen.
 
-3. Packlisten und Speicherung bei Supabase
+3. Packlisten und Speicherung bei Supabase<br>
 Die von dir erstellten Packlisten und die zugehörigen Positionen werden bei Supabase gespeichert. Die für das Projekt gewählte Serverregion
 liegt in Deutschland. Die Verarbeitung erfolgt zur Bereitstellung der App-Funktionen auf Grundlage von Art. 6 Abs. 1 lit. b DSGVO.
 
