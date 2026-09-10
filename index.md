@@ -5,7 +5,7 @@ Stand: 10. September 2026
 1. Verantwortlicher<br>
 Verantwortlich für die Verarbeitung personenbezogener Daten in dieser App ist:
 Klaus Hertel
-E-Mail: khnbg@t-online.de
+khnbg@t-online.de
 
 2. Zweck der Datenverarbeitung<br>
 MySupaList ist eine iOS-App zum Erstellen und Verwalten von Urlaubs-Packlisten. Wir verarbeiten personenbezogene Daten, um die Anmeldung,
